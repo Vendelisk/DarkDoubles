@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3aaf6c42fde2c6b47a2f2c781021ea42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireBreath: {instanceID: 0}
+  - animCtrl: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
